@@ -51,10 +51,6 @@ Estilização com CSS externo;
 Uso de variáveis CSS;
 Responsividade com media queries;Manipulação do DOM com JavaScript;
 
-🖼️ Galeria de Imagens
-casa.jpg  Retirado do site wikimedia Commons ()
-campo.jpg (se for da IA inserir aqui o prompt)
-
 👨‍🎓 Autoria
 Autor(a):Kauane Eurich Ribas
 Professor(a) orientador(a): Alexandra Terezinha Kapusinski
