@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    size: 10%;
+    size: 5%;
 }
 
 .cabecalho-lista-item{
@@ -23,7 +23,7 @@
 }
 
 .irrigação-imagem{
-    width: 50%;
+    width: 120%;
 }
 
 .irrigação{
@@ -48,7 +48,7 @@
     padding: 10px 0;
 }
 .irrigação-imagem{
-    width: 70px;
+    width: 120px;
 }
 
 .irrigação-icone{
