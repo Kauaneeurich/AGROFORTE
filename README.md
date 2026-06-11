@@ -9,12 +9,14 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto “uso da irrigação inteligente” (explique o seu projeto, o que ele apresenta)
+O projeto “uso da irrigação inteligente” 
+foi desenvolvido para apresentar uma solução tecnológica que automatiza a irrigação agrícola. O sistema utiliza sensores para monitorar condições como a umidade do solo e o clima, permitindo que a água seja aplicada apenas quando necessário.
+
+A proposta busca aumentar a eficiência da produção agrícola, reduzir o desperdício de água e facilitar o controle da irrigação por meio de tecnologias conectadas. Além disso, o projeto destaca a importância da sustentabilidade, contribuindo para a preservação dos recursos naturais e para a redução dos impactos ambientais causados pelo uso excessivo de água.
 
 Por meio de textos, imagens, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
-O objetivo do projeto é: entender mais sobre a irrigação inteligente, quais são os metodos utilizados, e qual é a ligação dela com o meio ambiente.
-
+entender mais sobreO objetivo do projeto é:  O objetivo do projeto é desenvolver um sistema de irrigação inteligente que utilize tecnologia e automação para otimizar o uso da água na agricultura, melhorar o crescimento das plantas, reduzir desperdícios e contribuir para a sustentabilidade ambiental.
 
 🧭 Funcionalidades do Site
 O projeto conta com as seguintes funcionalidades:
@@ -74,6 +76,7 @@ crie  uma  imagem  ilustrando  a   irrigaçao inteligente, em um campo;
 agora crie outra imagem onde mostre somente as plantacões e a irrigação;
 agora crie uma imagem que tenha ligação com o meio ambiente e a irrigação inteligente;
 crie uma  logo para um site contendo a frase: AGROFORTE IRRIGAÇÃO INTELIGENTE
+
 📚 Observação sobre o Uso de IA
 As ferramentas de inteligência artificial podem ter sido utilizadas como apoio na criação de imagens, textos ou ideias visuais do projeto.
 Todos os recursos foram utilizados com finalidade educacional, respeitando o tema do concurso e com o objetivo de tornar o aprendizado mais visual, acessível e interativo.
