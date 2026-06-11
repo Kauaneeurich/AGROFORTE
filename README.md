@@ -42,6 +42,12 @@ JavaScript
 
 🌿 Sustentabilidade
 O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produção e meio ambiente, como:
+Uso eficiente da água por meio da irrigação inteligente;
+Redução do desperdício de recursos hídricos;
+Aplicação da quantidade exata de água necessária às plantas;
+Diminuição da erosão do solo e da contaminação dos lençóis freáticos;
+Monitoramento das condições climáticas para evitar irrigação excessiva;
+Promoção de uma agricultura mais sustentável e responsável com o meio ambiente.
 
 🧠 Conceitos de Programação Aplicados
 Durante o desenvolvimento do projeto, foram aplicados conceitos importantes de programação front-end, como:
