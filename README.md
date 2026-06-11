@@ -14,9 +14,9 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto “” (explique o seu projeto, o que ele apresenta)
+O projeto “irrigação inteligente” (explique o seu projeto, o que ele apresenta)
 
-Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
+Por meio de textos, imagens, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
 O objetivo do projeto é ......................................
 
@@ -26,7 +26,6 @@ O site busca explicar, de maneira simples e interativa, como a cadeia produtiva 
 O projeto conta com as seguintes funcionalidades:
 
 🏠 Página inicial com apresentação do tema;
-📱 Menu de navegação responsivo;
 🌾 Seção explicativa sobre a produção relacionada ao meio ambiente;
 ♿ Botão de acessibilidade;
 🔠 Opção de aumentar e diminuir fonte;
