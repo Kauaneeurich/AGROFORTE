@@ -85,4 +85,4 @@ agrinho2026
 Projeto desenvolvido exclusivamente para fins educacionais e para participação no Concurso Agrinho 2026.
 
 🌟 Considerações Finais
-O que se pode considerar a partir do projeto apresentado
+O projeto de irrigação inteligente utiliza sensores e automação para fornecer água na quantidade e no momento adequados. Isso reduz o desperdício de água, melhora o desenvolvimento das plantas, facilita o monitoramento da irrigação e diminui os impactos ambientais, contribuindo para uma agricultura mais eficiente e sustentável.
