@@ -14,23 +14,17 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto “irrigação inteligente” (explique o seu projeto, o que ele apresenta)
+O projeto “uso da irrigação inteligente” (explique o seu projeto, o que ele apresenta)
 
 Por meio de textos, imagens, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
-O objetivo do projeto é ......................................
+O objetivo do projeto é: entender mais sobre a irrigação inteligente, quais são os metodos utilizados, e qual é a ligação dela com o meio ambiente.
 
-O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
 🧭 Funcionalidades do Site
 O projeto conta com as seguintes funcionalidades:
-
 🏠 Página inicial com apresentação do tema;
-🌾 Seção explicativa sobre a produção relacionada ao meio ambiente;
-♿ Botão de acessibilidade;
-🔠 Opção de aumentar e diminuir fonte;
-🌓 Modo de alto contraste;
-📲 Layout adaptado para diferentes tamanhos de tela. (nem todos têm)
+🌾 Seção explicativa sobre como é e como funciona;
 💻 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando apenas tecnologias básicas de front-end:
 HTML5
@@ -42,7 +36,7 @@ JavaScript
 /
 ├── index.html
 ├── style.css
-├── script.js
+├── main.js
 ├── README.md
 ├── img/
 │   ├── logo.png
@@ -53,18 +47,7 @@ JavaScript
 │   ├── Clipe.mp4
 │   ├── github.png
 │   └── instagram.png
-    header.css (nem todos têm)
-▶️ Como Executar o Projeto
-Para visualizar o projeto:
-É possível acessar o projeto publicado pelo GitHub Pages, por meio do link disponível na seção About deste repositório.
-
-♿ Acessibilidade
-O projeto inclui recursos de acessibilidade para melhorar a experiência dos usuários:
-
-🔠 Botão para aumentar o tamanho da fonte;
-🔡 Botão para diminuir o tamanho da fonte;
-🌓 Modo de alto contraste;
-🖼️ Textos alternativos em imagens;
+    
 
 
 🌿 Sustentabilidade
