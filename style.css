@@ -22,7 +22,7 @@
     font-size: 20px;
 }
 
-.soja-imagem{
+.irrigação-imagem{
     width: 20%;
 }
 
@@ -35,27 +35,28 @@
     padding: 10px 0;
 }
 
-.soja-div-conteudo{
+.irrigação-div-conteudo{
     width: 50%;
 }
-.soja-titulo{
+
+.irrigação-titulo{
     padding: 10px 0;
 }
 
 
-.estudante{
+.irrigação{
     padding: 10px 0;
 }
-.soja-imagem{
+.irrigação-imagem{
     width: 30px;
 }
 
-.estudante-icone{
+.irrigação-icone{
     width: 20px;
     padding: 4px 8px;
 }
 
-.soja-div{
+.irrigação-div{
     text-align: center;
     padding: 16px 0;
 }
