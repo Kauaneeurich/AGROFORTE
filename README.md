@@ -74,6 +74,9 @@ Todos os recursos foram utilizados com finalidade educacional, respeitando o tem
 
 🏷️ Tags do Projeto
  tags para o GitHub: 
+ AGROFORTE
+#agrinho-2026
+#irrigação inteligente
 
 agrinho
 agrinho2026
